@@ -54,6 +54,14 @@
     }
   },
   "_osConfig": {
+    "uiConfig":{
+      "columnList":[
+        {
+          "key":"name",
+          "title":"Name"
+        }
+      ]
+    },
     "uniqueIndexFields": [
       "contact"
     ],
